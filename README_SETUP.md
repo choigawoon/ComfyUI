@@ -49,3 +49,6 @@ a111:
     hypernetworks: models/hypernetworks
     controlnet: extensions/sd-webui-controlnet/models
 ```
+
+# Setup Krita
+https://github.com/Acly/krita-ai-diffusion/blob/main/doc/comfy-requirements.md
